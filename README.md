@@ -15,5 +15,5 @@
 </ol>
 <strong>Resultados de las pruebas:</strong>
 <ul>
-<img src="" alt="Resultados Prueba">
+<img src="https://github.com/JulianP911/EjercicioTestingReact/blob/main/img/Resultado%20Pruebas.png" alt="Resultados Prueba">
 </ul>
