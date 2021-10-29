@@ -11,8 +11,11 @@
 </ol>
 <strong>Ejecución de pruebas:</strong>
 <ol>
+<strong>Opción 1:</strong>
 <li>Para la ejecución de las pruebas ingresar a la terminal en la dirección del proyecto y cololocar el comando <code>npm test</code>.</li>
 <li>Luego ingresar en la consola <code>a</code> y darle enter con esto se ejecutarán las pruebas.</li>
+<strong>Opción 2:</strong>
+<li>Para la ejecución de las pruebas ingresar a la terminal en la dirección del proyecto y cololocar el comando <code>npm test a</code>.</li>
 </ol>
 <strong>Resultados de las pruebas:</strong>
 <ul>
